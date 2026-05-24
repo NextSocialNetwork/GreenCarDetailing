@@ -1,0 +1,6 @@
+{
+  "name": "Green Car Detailing",
+  "description": "Premium eco-friendly car detailing and interior restoration services with an interactive booking scheduler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
